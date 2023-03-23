@@ -62,8 +62,8 @@ html{
 
   
 }
-@media (min-width: 100px) {
+@media (min-width: 900px) {
   #hero {
-    width: 700px;
+    width: 600px;
   }
 }
